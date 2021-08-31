@@ -1,0 +1,5 @@
+set sysroot /Users/jy/tizen-studio/tools/smart-build-interface/../../platforms/tizen-6.0/mobile/rootstraps/mobile-6.0-emulator.core
+set debug-file-directory /Users/jy/tizen-studio/tools/smart-build-interface/../../platforms/tizen-6.0/mobile/rootstraps/mobile-6.0-emulator.core/usr/lib/debug
+set solib-search-path /Users/jy/workspace/BasicUI2/Debug
+dir /Users/jy/tizen-studio/tools/smart-build-interface/../../platforms/tizen-6.0/mobile/rootstraps/mobile-6.0-emulator.core/usr/src/debug
+sharedlibrary
